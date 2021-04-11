@@ -1,0 +1,5 @@
+[16-Feb-2021 11:48:38] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_CONSTANT_ENCAPSED_STRING or '(' in phar:///usr/local/bin/composer/bin/composer on line 10
+[16-Feb-2021 11:56:22 UTC] PHP Warning:  Unsupported declare 'strict_types' in /home/physaorg/jobs.physiotherapyindia.org/jobs/vendor/phpunit/phpunit/src/Framework/Assert/Functions.php on line 1
+[16-Feb-2021 11:56:22 UTC] PHP Fatal error:  Default value for parameters with a class type hint can only be NULL in /home/physaorg/jobs.physiotherapyindia.org/jobs/vendor/phpunit/phpunit/src/Framework/Assert/Functions.php on line 89
+[16-Feb-2021 11:58:02 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 6807022 bytes) in phar:///usr/local/bin/composer/src/Composer/Util/RemoteFilesystem.php on line 462
+[16-Mar-2021 08:48:52] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_CONSTANT_ENCAPSED_STRING or '(' in phar:///usr/local/bin/composer/bin/composer on line 10
